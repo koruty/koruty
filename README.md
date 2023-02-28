@@ -4,6 +4,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
+<img src='images/DSC_8358_편집.jpg' width=300 heght=300> </img>
+
 # Hi there 👋
 ## Hi there 👋
 ### Hi there 👋
