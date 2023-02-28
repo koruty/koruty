@@ -1,16 +1,30 @@
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=koruty)](https://github.com/koruty)
+
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=koruty&show_icons=true&theme=radical)](https://github.com/koruty)
+
+![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+
+# Hi there 👋
+## Hi there 👋
 ### Hi there 👋
+#### Hi there 👋
+##### Hi there 👋
+---
+**bold**<br>
+*italic*<br>
+~~strikethrough~~<br>
 
-<!--
-**koruty/koruty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 1번
+* 2번
+- 1번
+- 2번
 
-Here are some ideas to get you started:
+[네이버](https://naver.com)
+```
+printf("안녕하세요?");
+include ~~~~
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:smirk:
+:joy:
+:rage:
